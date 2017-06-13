@@ -1,6 +1,6 @@
 package com.lucasmarques.defaultmethods;
 
-import com.lucasmarques.lambda.User;
+import com.lucasmarques.entities.User;
 
 import java.util.ArrayList;
 import java.util.List;

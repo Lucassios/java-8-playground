@@ -1,6 +1,6 @@
 package com.lucasmarques.streamsandcollections;
 
-import com.lucasmarques.lambda.User;
+import com.lucasmarques.entities.User;
 
 import java.util.*;
 import java.util.stream.Collectors;

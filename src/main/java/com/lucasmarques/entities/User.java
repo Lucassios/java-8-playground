@@ -1,4 +1,4 @@
-package com.lucasmarques.lambda;
+package com.lucasmarques.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

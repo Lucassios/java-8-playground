@@ -1,6 +1,6 @@
 package com.lucasmarques.methodreference;
 
-import com.lucasmarques.lambda.User;
+import com.lucasmarques.entities.User;
 
 import java.util.ArrayList;
 import java.util.Comparator;

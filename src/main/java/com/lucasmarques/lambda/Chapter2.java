@@ -1,5 +1,7 @@
 package com.lucasmarques.lambda;
 
+import com.lucasmarques.entities.User;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
